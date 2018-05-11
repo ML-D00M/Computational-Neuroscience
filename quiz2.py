@@ -1,5 +1,5 @@
 """
-Created on Wed Apr 22 15:15:16 2015
+Computational Neuroscience by University of Washington
 
 Quiz 2 code.
 """
