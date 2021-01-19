@@ -1,5 +1,6 @@
 """
 Computational Neuroscience by University of Washington
+(https://www.coursera.org/learn/computational-neuroscience)
 
 Quiz 2 code.
 """
