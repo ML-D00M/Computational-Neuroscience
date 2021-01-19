@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 import pickle
 
-from compute_sta import compute_sta
+from Compute STA import Compute STA
 
 
 FILENAME = 'c1p8.pickle'
